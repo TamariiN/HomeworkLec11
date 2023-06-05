@@ -1,0 +1,79 @@
+@media screen and (min-width: 1440px) {
+    .header{
+        height: 730px;
+        position: relative;
+    }    
+    .logo{
+       gap: 870px;
+    }
+    .oval1{
+        display: block;
+        position: inherit;
+        left: -640px;
+        top: 92px;
+    }
+    .oval2{
+        display: block;
+        position: inherit;
+        right: -698px;
+        bottom: -7px;
+    }
+    .mobtab{
+        width: 715px;
+        height: 427px;
+        margin-top: 80px;
+    }
+    h1{
+        font-size: 80px;
+        line-height: 80px;
+        width: 635px;
+    }
+    u{
+        color: var(--Eucaplyptus);
+    }
+    .content{
+        flex-direction: row;
+    }
+    .founder{
+        margin-bottom: -174px;
+
+    }
+    .text{
+        width: 730px;
+    height: 350px;
+    top: -303px;
+    left: 378px;
+    align-items: start;
+    padding-left: 56px;
+    }
+    .text p{
+        width: 540px;
+    }
+    .text h6{
+        font-size: 50px;
+        line-height: 58px;
+    }
+    .box{
+        flex-direction: column;
+    }
+    .box p,h2{
+        width: 354px;
+        text-align: center;
+        padding-top: 5px;
+    }
+    .founder{
+        width: 1114px;
+        padding-left: 5px;
+    }
+    .founder img{
+        width: 477px;
+        height: 477px;
+    }
+    .text .learnmore{
+        margin-top: 35px;
+    }
+    .footer{
+        margin-top: -4px;
+    }
+    
+}

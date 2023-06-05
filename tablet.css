@@ -1,0 +1,69 @@
+@media screen and (min-width:768px) {
+    .header{
+        height: 540px;
+        position: relative;
+    }    
+    .logo{
+       gap: 470px;
+    }
+    .oval1{
+        display: block;
+        position: inherit;
+        left: -236px;
+    }
+    .oval2{
+        display: block;
+        position: inherit;
+        right: -344px;
+        bottom: 38px;
+    }
+    .wrapper{
+        position: absolute;
+    }
+    .mobmob{
+        display: none;
+    }
+    .mobtab{
+       display: block;
+       margin-top: 20px;
+    }
+    h1{
+        width: 473px;
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .content{
+        margin-top: 200px;
+        gap: 10px;
+
+    }
+    .box{
+        flex-direction: row;
+        gap:22px
+    }
+    .box p,h2{
+        width: 490px;
+        text-align: start;
+    }
+    .founder{
+        width: 689px;
+        align-items: start;
+        padding-left: 25px;
+        margin-bottom: -73px;
+    }
+    .text{
+        width: 514px;
+        top: -134px;
+        left: 172px;
+        align-items: start;
+        padding-left: 56px;
+    }
+    .text p{
+        text-align: start;
+        width:402px;
+    }
+    .learnmore{
+        width: 172px;
+    }
+    
+}
